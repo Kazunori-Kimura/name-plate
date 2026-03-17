@@ -1,0 +1,170 @@
+[
+  {
+    "alt": "01チェリーウッド×文字色クリーム",
+    "src": "https://m.media-amazon.com/images/I/510rKDuNt1L._SS64_.jpg",
+    "backgroundColor": "#8B3A3A",
+    "textColor": "#F5F5DC"
+  },
+  {
+    "alt": "02チークウッド×文字色クリーム",
+    "src": "https://m.media-amazon.com/images/I/51PSZf2tE7L._SS64_.jpg",
+    "backgroundColor": "#A0522D",
+    "textColor": "#F5F5DC"
+  },
+  {
+    "alt": "03ピーチウッド×文字色ブラウン",
+    "src": "https://m.media-amazon.com/images/I/51SvbsmsRQL._SS64_.jpg",
+    "backgroundColor": "#D99058",
+    "textColor": "#5A3E2B"
+  },
+  {
+    "alt": "06ナチュラル石調茶×文字色クリーム",
+    "src": "https://m.media-amazon.com/images/I/51fWANjNAUL._SS64_.jpg",
+    "backgroundColor": "#8C6B4F",
+    "textColor": "#F5F5DC"
+  },
+  {
+    "alt": "07ナチュラル石調白×文字色ブラック",
+    "src": "https://m.media-amazon.com/images/I/51-PjgV1xOL._SS64_.jpg",
+    "backgroundColor": "#EDEDED",
+    "textColor": "#000000"
+  },
+  {
+    "alt": "08ナチュラル石調黒×文字色ホワイト",
+    "src": "https://m.media-amazon.com/images/I/61xvbnC5CzL._SS64_.jpg",
+    "backgroundColor": "#2B2B2B",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "alt": "09テクスチャ―銀×文字色ブラック",
+    "src": "https://m.media-amazon.com/images/I/51LzM-2rCvL._SS64_.jpg",
+    "backgroundColor": "#C0C0C0",
+    "textColor": "#000000"
+  },
+  {
+    "alt": "10テクスチャ―金×文字色ブラック",
+    "src": "https://m.media-amazon.com/images/I/61q5JTz0e0L._SS64_.jpg",
+    "backgroundColor": "#D4AF37",
+    "textColor": "#000000"
+  },
+  {
+    "alt": "11テクスチャ―銅×文字色ブラック",
+    "src": "https://m.media-amazon.com/images/I/61j5n2W7mmL._SS64_.jpg",
+    "backgroundColor": "#B87333",
+    "textColor": "#000000"
+  },
+  {
+    "alt": "12レンガ調アイボリー×文字色ブラック",
+    "src": "https://m.media-amazon.com/images/I/51kBnFdtqPL._SS64_.jpg",
+    "backgroundColor": "#F0E5CF",
+    "textColor": "#000000"
+  },
+  {
+    "alt": "13レンガ調カフェオレ×文字色ブラウン",
+    "src": "https://m.media-amazon.com/images/I/51T2LCMWJhL._SS64_.jpg",
+    "backgroundColor": "#C4A484",
+    "textColor": "#5A3E2B"
+  },
+  {
+    "alt": "14レンガ調こげ茶×文字色ホワイト",
+    "src": "https://m.media-amazon.com/images/I/51U5BGavksL._SS64_.jpg",
+    "backgroundColor": "#5A3E2B",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "alt": "15ステンレス調×文字色ブラック",
+    "src": "https://m.media-amazon.com/images/I/41atdp+i7NL._SS64_.jpg",
+    "backgroundColor": "#B0B0B0",
+    "textColor": "#000000"
+  },
+  {
+    "alt": "18銅調×文字色ブラック",
+    "src": "https://m.media-amazon.com/images/I/411d5Y7CoVL._SS64_.jpg",
+    "backgroundColor": "#B87333",
+    "textColor": "#000000"
+  },
+  {
+    "alt": "19アンティークゴールド×文字色ブラック",
+    "src": "https://m.media-amazon.com/images/I/41+mzlug1bL._SS64_.jpg",
+    "backgroundColor": "#C9A227",
+    "textColor": "#000000"
+  },
+  {
+    "alt": "20艶消しゴールド×文字色ブラック",
+    "src": "https://m.media-amazon.com/images/I/41lXs-M6k3L._SS64_.jpg",
+    "backgroundColor": "#C5A642",
+    "textColor": "#000000"
+  },
+  {
+    "alt": "21アイボリー×文字色ブラック",
+    "src": "https://m.media-amazon.com/images/I/41+CZLLbTZL._SS64_.jpg",
+    "backgroundColor": "#FFFFF0",
+    "textColor": "#000000"
+  },
+  {
+    "alt": "22白×文字色ブラック",
+    "src": "https://m.media-amazon.com/images/I/31ahdB9kOxL._SS64_.jpg",
+    "backgroundColor": "#FFFFFF",
+    "textColor": "#000000"
+  },
+  {
+    "alt": "26青×文字色ホワイト",
+    "src": "https://m.media-amazon.com/images/I/41eTkCH8RBL._SS64_.jpg",
+    "backgroundColor": "#1E3A8A",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "alt": "29緑×文字色ホワイト",
+    "src": "https://m.media-amazon.com/images/I/41m2+Fqmc2L._SS64_.jpg",
+    "backgroundColor": "#2F855A",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "alt": "30黄色×文字色ブラック",
+    "src": "https://m.media-amazon.com/images/I/41VUhtgYfFL._SS64_.jpg",
+    "backgroundColor": "#FACC15",
+    "textColor": "#000000"
+  },
+  {
+    "alt": "33黒×文字色ホワイト",
+    "src": "https://m.media-amazon.com/images/I/41pI0DAM7BL._SS64_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "alt": "34黒×文字色ゴールド",
+    "src": "https://m.media-amazon.com/images/I/41qsZV4a4aL._SS64_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#D4AF37"
+  },
+  {
+    "alt": "35黒×文字色シルバー",
+    "src": "https://m.media-amazon.com/images/I/31FatY9uF2L._SS64_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#C0C0C0"
+  },
+  {
+    "alt": "36グレー×文字色ホワイト",
+    "src": "https://m.media-amazon.com/images/I/31NkNCsLeVL._SS64_.jpg",
+    "backgroundColor": "#808080",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "alt": "37マーブルブルー×文字色ゴールド",
+    "src": "https://m.media-amazon.com/images/I/51IFibCfWOL._SS64_.jpg",
+    "backgroundColor": "#2C3E50",
+    "textColor": "#D4AF37"
+  },
+  {
+    "alt": "38マーブルグリーン×文字色ゴールド",
+    "src": "https://m.media-amazon.com/images/I/51Zb0MKe9zL._SS64_.jpg",
+    "backgroundColor": "#1F4D3A",
+    "textColor": "#D4AF37"
+  },
+  {
+    "alt": "39マーブルワイン×文字色ゴールド",
+    "src": "https://m.media-amazon.com/images/I/41-5nfkrguL._SS64_.jpg",
+    "backgroundColor": "#6B2737",
+    "textColor": "#D4AF37"
+  }
+]

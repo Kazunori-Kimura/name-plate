@@ -1,0 +1,21 @@
+{
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit",
+        "source.organizeImports": "explicit"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "appService.defaultWebAppToDeploy": "/subscriptions/91fac388-d0f7-4219-9840-264373be1cd9/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/mystructurenote-image-api-development",
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": ["node_modules{,/**}", ".vscode{,/**}"],
+    "[prisma]": {
+        "editor.defaultFormatter": "Prisma.prisma",
+        "editor.formatOnSave": true
+    },
+    "editor.quickSuggestions": {
+        "other": "on",
+        "comments": true,
+        "strings": "off"
+    }
+}
