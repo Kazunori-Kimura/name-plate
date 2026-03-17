@@ -8,19 +8,19 @@ export type ColorOption = {
 export const colorOptions: ColorOption[] = [
   {
     alt: "01チェリーウッド×文字色クリーム",
-    src: "/01_cherry_wood.png",
+    src: "./01_cherry_wood.png",
     backgroundColor: "#8B3A3A",
     textColor: "#F5F5DC",
   },
   {
     alt: "02チークウッド×文字色クリーム",
-    src: "/02_teak_wood.png",
+    src: "./02_teak_wood.png",
     backgroundColor: "#A0522D",
     textColor: "#F5F5DC",
   },
   {
     alt: "03ピーチウッド×文字色ブラウン",
-    src: "/03_peach_wood.png",
+    src: "./03_peach_wood.png",
     backgroundColor: "#D99058",
     textColor: "#5A3E2B",
   },
